@@ -4,11 +4,5 @@
     "api/proxy.js": {
       "maxDuration": 60
     }
-  },
-  "routes": [
-    {
-      "src": "/api/proxy",
-      "dest": "/api/proxy.js"
-    }
-  ]
+  }
 }
