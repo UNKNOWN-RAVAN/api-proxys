@@ -4,6 +4,6 @@
   "description": "Multi-URL CORS Proxy with Failover",
   "main": "api/proxy.js",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
