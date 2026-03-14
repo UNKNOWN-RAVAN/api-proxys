@@ -1,0 +1,9 @@
+{
+  "name": "cors-proxy-failover",
+  "version": "1.0.0",
+  "description": "Multi-URL CORS Proxy with Failover",
+  "main": "api/proxy.js",
+  "engines": {
+    "node": "18.x"
+  }
+}
